@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">rxnet</string>
+    <string name="title_activity_environment">EnvironmentActivity</string>
+</resources>

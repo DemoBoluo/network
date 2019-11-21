@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger version="3"><dataSet config="main"><source path="E:\AndroidStudioProject\VE-master\VE-master\code\rxnet\src\main\assets"/><source path="E:\AndroidStudioProject\VE-master\VE-master\code\rxnet\build\generated\assets\shaders\debug"/></dataSet><dataSet config="debug"><source path="E:\AndroidStudioProject\VE-master\VE-master\code\rxnet\src\debug\assets"/></dataSet></merger>
